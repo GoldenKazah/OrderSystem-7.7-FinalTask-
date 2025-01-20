@@ -1,0 +1,4 @@
+C:\projects\OOP\OrderSystem\OrderSystem\obj\Debug\net8.0\OrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\OOP\OrderSystem\OrderSystem\obj\Debug\net8.0\OrderSystem.AssemblyInfoInputs.cache
+C:\projects\OOP\OrderSystem\OrderSystem\obj\Debug\net8.0\OrderSystem.AssemblyInfo.cs
+C:\projects\OOP\OrderSystem\OrderSystem\obj\Debug\net8.0\OrderSystem.csproj.CoreCompileInputs.cache
